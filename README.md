@@ -1,4 +1,4 @@
-helloworld
+# Hello World
 ==========
 
-my first github repository
+Just for practice
